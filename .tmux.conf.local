@@ -94,7 +94,7 @@ tmux_conf_theme_window_bg="default"
 tmux_conf_theme_highlight_focused_pane=true
 
 # focused pane colours:
-tmux_conf_theme_focused_pane_bg="colour235"
+tmux_conf_theme_focused_pane_bg="colour16"
 
 
 # pane border style, possible values are:
